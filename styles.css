@@ -1,0 +1,164 @@
+*{ font-weight: bold;
+  margin:0;
+  padding:0;}
+.vid{background-color:black;
+  width:100%;
+}
+body{background-color:white;}
+
+#demo{font-family: 'Brush Script MT', cursive;
+	text-align:center;
+font-size:10vw;
+
+margin :1px;}
+
+.namediv{text-align:center;
+}
+.namefull{margin:0 0 0 0;}
+.name{font-family: 'Brush Script MT', cursive;
+text-align:center;
+color: #ff007f;
+font-size:9vw;
+
+ padding:0;
+}
+.Weds{font-family:'Brush Script MT', cursive;
+text-align:center;
+font-size:8vw;
+
+margin:0px;
+padding:0;}
+.we{font-family: 'Brush Script MT', cursive;
+text-align:center;
+font-size:7vw;
+
+color: #ffc111;
+ padding:0;
+ margin:0;
+}
+.Wed{font-family: 'Brush Script MT', cursive;
+text-align:center;
+font-size:7.5vw;
+
+padding:0;
+margin:-3% 0 0 0;
+}
+.savedate{text-align:center;
+font-size:4vw;
+
+font-family:luminari, cursive;
+ color: #fff;
+padding:.5% 3% 2% 3%;
+  background-color: #38D2D2;
+  background-image: radial-gradient(93% 87% at 87% 89%, rgba(0, 0, 0, 0.23) 0%, transparent 86.18%), radial-gradient(66% 66% at 26% 20%, rgba(255, 255, 255, 0.55) 0%, rgba(255, 255, 255, 0) 69.79%, rgba(255, 255, 255, 0) 100%);
+  box-shadow: inset -3px -3px 9px rgba(255, 255, 255, 0.25), inset 0px 3px 9px rgba(255, 255, 255, 0.3), inset 0px 1px 1px rgba(255, 255, 255, 0.6), inset 0px -8px 36px rgba(0, 0, 0, 0.3), inset 0px 1px 5px rgba(255, 255, 255, 0.6), 2px 19px 31px rgba(0, 0, 0, 0.2);
+  border-radius: 13px;
+  border: 0;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  cursor: pointer;
+   font-weight: bold;
+}
+.btno{  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin:1% 0 3% 0;
+}
+.dot {
+  cursor: pointer;
+  height: 10px;
+  width: 10px;
+  margin: 2% 1.5% 2% 0;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+}
+.active, .dot:hover {
+  background-color: #717171;
+}
+.namet{font-family: 'Brush Script MT', cursive;
+text-align:center;
+color: #FFD800;
+
+font-size:9vw;
+ padding:0;
+}
+.Wedst{font-family:'Brush Script MT', cursive;
+text-align:center;
+
+font-size:8vw;
+margin:0px;
+padding:0;}
+.raja, .rani{width:100%}
+
+.rajat, .ranit{font-family: 'Brush Script MT', cursive;
+color: #FFD800;
+display: flex;
+  justify-content: center;
+  align-items: center;
+
+font-size:9vw;}
+
+.flex-map{  display: flex;
+  justify-content: space-around;
+  margin-top:3%;
+  }
+.flex-map > div {  text-align: center;
+width: 50%;
+text-align:center;
+}
+.line{width:100%;
+margin-top:7%;}
+.ftn{text-align:center;
+font-family: 'Dancing Script', cursive;
+
+font-size:12vw;
+color:#aaa;
+margin:1px;
+padding:0px;
+}
+.haladifont{display:flex;
+  justify-content: center;
+align-items: center;
+margin:0 5% 0 5%;
+
+}
+.haladi{width:100%;
+border: solid #E2C5A8 5px;
+margin:5%;}
+.hld, .hld-one, .hld-two, .hld-three{font-family: 'Dancing Script', cursive;
+font-size: 7vw;
+padding:0px 0px 0px 0px;
+margin:0px 0px 0px 7%;
+color:#F1AA33;
+   font-weight: bold;
+}
+.hldadd{font-family: 'Dancing Script', ;
+padding:0px 0px 0px 0px;
+margin:0px 0px 0px 7%;
+color:#aaa;
+font-size:3.7vw;
+}
+
+.button {padding:0;
+
+background-color:#EE3396;
+font-size:3VW;
+text-decoration:none;
+ border-radius: 10px;
+padding:.3% 2.2% 1% 2%;
+
+margin:1% 0px 0px 6.5%;
+  border: 0;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  cursor: pointer;
+ 
+}
+.link{font-family: cursive;
+text-decoration:none;
+color:white;}
+
